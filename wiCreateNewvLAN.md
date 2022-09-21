@@ -7,7 +7,7 @@
   
 | Version | Date       | Description              | Author       |
 | ------- | ---------- | ------------------------ | --------------- |
-|         | 21/09/2022 |                          | Dolly Vemula |
+|  0.1    | 21/09/2022 |   Add VLAN in ANS - MAR CLY           | Dolly Vemula |
 
 # Introduction
 
@@ -17,66 +17,105 @@ The purpose of this document is to describe steps that should be performed to Ad
 ## Scope
 
 The scope of this document covers the following:
-Updating/Adding New VLAN in the ANS - MAR CLY.
 
-# Bringup Process
+  - Updating/Adding New VLAN in the ANS - MAR CLY.
+
+## Prerequisites
+    
+  -  Access to the both ANS - MAR , CLY in VRA Environment.
+     
+# Steps for Adding VLAN in ANS - MAR CLY
 
 ## Update/Add the VLAN in ANS-MAR CLY
 
 To Update/Add New VLAN we need to follow 3 main steps:
 
-Step1:  We need to check the Required VLAN is Available in the Network Profile and check the tags.
+   - Step1:  We need to check the Required VLAN is Available in the Network Profile and check the tags.
 
-Step2: Need to Update\add the VLAN in the Required Blueprint.
+   - Step2: Need to Update\add the VLAN in the Required Blueprint.
 
-Step3: Verify in the service broker weather the VLAN is added or not.
+   - Step3: Verify in the service broker weather the VLAN is added or not.
 
-For updating/add VLAN first log on to VRA service Broker.
+# Step 1
 
-Then click the cloud assembly.
+## updating/add VLAN Process in ANS - MAR CLY
 
-![Figure 1](Pic1.png)
+  ## 1.1 Sign in VRA Environment
+ 
+    First log on to VRA.
 
-Then click on the Infrastructure.
+      - Then click the cloud assembly.
 
-![Figure 2](Pic2.png)
+         ![Figure 1](Pic1.png)
 
-Click on the Network Profile and search for the Required VLAN is available or not.
+  ## 1.3 Verify VLAN is in the Network profile
 
-If the VLAN is not available then we need to add the required VLAN in the network profile and need to add the network tags.
+     -click on the Infrastructure.
 
-![Figure 3](Pic3.png)
+       ![Figure 2](Pic2.png)
 
-Click on the Design and select/search for the required Blueprint.
+  ## 1.3 Verify the Tags are Updated
 
-![Figure 4](Pic4.png)
+     - Click on the Network Profile and search for the Required VLAN is available or not.
 
-Now need to add the VLAN in the Blueprint.
+     - If the VLAN is not available then we need to add the required VLAN in the network profile and need to add the network tags.
 
-![Figure 5](Pic5.png)
+        ![Figure 3](Pic3.png)
 
-Now Version the Blueprint.
+# Step 2
 
-![Figure 6](Pic6.png)
+## Update VLAN in the Cloud Assembly
 
-Now click on the service broker.
+   ## 2.1 select required Template
 
-![Figure 7](Pic7.png)
+     - Click on the Design and select/search for the required Blueprint.
 
-In service broker click on the content&policies and then select the project.
+        ![Figure 4](Pic4.png)
+   
+   ## 2.2 Add required VLAN  in the Template
 
-![Figure 8](Pic8.png)
+     - Now need to add the VLAN in the Blueprint.
 
-Click on the validate and then save & import.
+       ![Figure 5](Pic5.png)
+ 
+   ## 2.3 Version the Blueprint.
 
-![Figure 9](Pic9.png)
+    - click on the version button in the blueprint.
+   
+       ![Figure 6](Pic6.png)
+   
+# step 3
 
-In the service broker click on the catalog and search/select the required catalog.
+## Verification in Service Broker
 
-![Figure 10](Pic10.png)
+  ## 3.1 In Service Broker
 
-Now check the VLAN is added in the Catalog.
+      - Click on the service broker.
 
-![Figure 11](Pic11.png)
+         ![Figure 7](Pic7.png)
+         
+  ## 3.2 project in Content&Policies
+
+     - In service broker click on the content&policies and then select the project.
+
+         ![Figure 8](Pic8.png)
+         
+  ## 3.3 Validation in conten&Policies
+
+     - Click on the validate and then save & import.
+
+         ![Figure 9](Pic9.png)
+
+  ## 3.4 Select Catalog 
+
+     - In the service broker click on the catalog and search/select the required catalog.
+
+         ![Figure 10](Pic10.png)
+
+  ## 3.5 Verify VLAN in the Catalog
+
+     - Now check the VLAN is added in the Catalog.
+
+         ![Figure 11](Pic11.png)
 
 
