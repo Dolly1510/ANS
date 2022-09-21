@@ -1,7 +1,13 @@
 # Adding new VLAN in ANS - MAR CLY
 
 - Table of Contents
-{:toc}
+- [Changelog](#Changelog)
+- [Introduction](#Introduction)
+- [Purpose](#Purpose)
+- [Scope](#Scope)
+- [Stages For Adding VLAN](#Stages-For-Adding-Puppet-Roles)
+- [Adding VLAN  process In ANS-MAR CLY (#Adding VLAN-process-In-ANS-MAR CLY )
+
 
 # Changelog
   
@@ -46,13 +52,13 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
       - Then click the cloud assembly.
 
-         ![Figure 1](Pic1.png)
+![Figure 1](Pic1.png)
 
   ## 1.3 Verify VLAN is in the Network profile
 
      -click on the Infrastructure.
 
-       ![Figure 2](Pic2.png)
+![Figure 2](Pic2.png)
 
   ## 1.3 Verify the Tags are Updated
 
@@ -60,7 +66,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
      - If the VLAN is not available then we need to add the required VLAN in the network profile and need to add the network tags.
 
-        ![Figure 3](Pic3.png)
+![Figure 3](Pic3.png)
 
 # Step 2
 
@@ -70,19 +76,19 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
      - Click on the Design and select/search for the required Blueprint.
 
-        ![Figure 4](Pic4.png)
+![Figure 4](Pic4.png)
    
    ## 2.2 Add required VLAN  in the Template
 
      - Now need to add the VLAN in the Blueprint.
 
-       ![Figure 5](Pic5.png)
+![Figure 5](Pic5.png)
  
    ## 2.3 Version the Blueprint.
 
     - click on the version button in the blueprint.
    
-       ![Figure 6](Pic6.png)
+![Figure 6](Pic6.png)
    
 # step 3
 
@@ -92,30 +98,30 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
       - Click on the service broker.
 
-         ![Figure 7](Pic7.png)
+![Figure 7](Pic7.png)
          
   ## 3.2 project in Content&Policies
 
      - In service broker click on the content&policies and then select the project.
 
-         ![Figure 8](Pic8.png)
+![Figure 8](Pic8.png)
          
   ## 3.3 Validation in conten&Policies
 
      - Click on the validate and then save & import.
 
-         ![Figure 9](Pic9.png)
+![Figure 9](Pic9.png)
 
   ## 3.4 Select Catalog 
 
      - In the service broker click on the catalog and search/select the required catalog.
 
-         ![Figure 10](Pic10.png)
+![Figure 10](Pic10.png)
 
   ## 3.5 Verify VLAN in the Catalog
 
      - Now check the VLAN is added in the Catalog.
 
-         ![Figure 11](Pic11.png)
+![Figure 11](Pic11.png)
 
 
