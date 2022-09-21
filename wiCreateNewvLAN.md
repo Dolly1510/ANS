@@ -32,6 +32,11 @@ Step2: Need to Update\add the VLAN in the Required Blueprint.
 Step3: Verify in the service broker weather the VLAN is added or not.
 
 For updating/add VLAN first log on to VRA service Broker.
+
 Then click the cloud assembly.
 
 ![Figure 1](Pic1.png)
+
+Then click on the Infrastructure.
+
+![Figure 2](Pic@.png)
