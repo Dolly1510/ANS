@@ -25,7 +25,7 @@ Step1:  We need to check the Required VLAN is Available in the Network Profile a
 Step2: Need to Update\add the VLAN in the Required Blueprint.
 Step3: Verify in the service broker weather the VLAN is added or not.
 Update/Add the VLAN in ANS-MAR CLY
-	for updating/add VLAN first log on to VRA service Broker.
-	Then click the cloud assembly.
+for updating/add VLAN first log on to VRA service Broker.
+Then click the cloud assembly.
 
 ![Figure 1](Pic1.png)
