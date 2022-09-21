@@ -22,3 +22,4 @@ The scope of this document covers the following:
 1. VxRail Manager initial configuration
 2. VxRail cluster bring-up process
 
+![Figure 1](../pic1.png)
