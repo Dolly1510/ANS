@@ -40,3 +40,14 @@ Then click the cloud assembly.
 Then click on the Infrastructure.
 
 ![Figure 2](Pic2.png)
+
+Click on the Network Profile and search for the Required VLAN is available or not.
+
+If the VLAN is not available then we need to add the required VLAN in the network profile and need to add the network tags.
+
+![Figure 3](Pic3.png)
+
+Click on the Design and select/search for the required Blueprint.
+
+![Figure 4](Pic4.png)
+
