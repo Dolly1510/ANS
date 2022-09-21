@@ -1,4 +1,4 @@
-# VxRail Manager Initialization
+# Adding new VLAN in ANS - MAR CLY
 
 - Table of Contents
 {:toc}
@@ -7,14 +7,13 @@
   
 | Version | Date       | Description              | Author       |
 | ------- | ---------- | ------------------------ | --------------- |
-| 0.1     | 31/03/2020 | First version | Maciej Losek |
+|         | 21/09/2022 |                          | Dolly Vemula |
 
 # Introduction
 
 ## Purpose
 
-The purpose of this document is to describe steps that should be performed to initialize VxRail Manager and bring up VxRail cluster.
-
+The purpose of this document is to describe steps that should be performed to Add new VLAN in ANS - MAR and CLY.
 ## Scope
 
 The scope of this document covers the following:
