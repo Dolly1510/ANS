@@ -39,4 +39,4 @@ Then click the cloud assembly.
 
 Then click on the Infrastructure.
 
-![Figure 2](Pic@.png)
+![Figure 2](Pic2.png)
