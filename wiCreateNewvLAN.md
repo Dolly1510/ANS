@@ -51,3 +51,32 @@ Click on the Design and select/search for the required Blueprint.
 
 ![Figure 4](Pic4.png)
 
+Now need to add the VLAN in the Blueprint.
+
+![Figure 5](Pic5.png)
+
+Now Version the Blueprint.
+
+![Figure 6](Pic6.png)
+
+Now click on the service broker.
+
+![Figure 7](Pic7.png)
+
+In service broker click on the content&policies and then select the project.
+
+![Figure 8](Pic8.png)
+
+Click on the validate and then save & import.
+
+![Figure 9](Pic9.png)
+
+In the service broker click on the catalog and search/select the required catalog.
+
+![Figure 10](Pic10.png)
+
+Now check the VLAN is added in the Catalog.
+
+![Figure 11](Pic11.png)
+
+
