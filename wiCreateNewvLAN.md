@@ -129,7 +129,7 @@ Now match with the VLAN name and choose the Network we want.
 
      - In service broker click on the content&policies and then select content sources.
 
-![Figure 8](Pic8.png)
+![Figure 8](Pic14.PNG)
          
   ## 3.3 Validation in content&Policies
 
@@ -141,7 +141,7 @@ Now match with the VLAN name and choose the Network we want.
 
      - In the service broker under catalog search/select the respected catalog.
 
-![Figure 10](Pic14.PNG)
+![Figure 10](Pic10.png)
 
   ## 3.5 Verify VLAN in the Catalog
 
