@@ -91,7 +91,7 @@ Now match with the VLAN name and choose the Network we want.
 
     - If the Network tag is not available with name matching in the Network we need to add the Network.
     
-![Figure 15](Pic16.png)
+![Figure 15](Pic16.PNG)
 
 ## Step 2
 
