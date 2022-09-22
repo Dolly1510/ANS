@@ -7,7 +7,7 @@ Table of Contents
 - [Scope](#Scope)
 - [Prerequisites](#Prerequisites)
 - [Stages For Adding VLAN](#Stages-For-Adding-Puppet-Roles)
-- [Add the VLAN in ANS-MAR CLY](#Add the VLAN in ANS-MAR CLY)
+- [Add the VLAN in ANS-MAR CLY](#Add-the-VLAN-in-ANS-MAR-CLY)
 
 # Changelog
   
