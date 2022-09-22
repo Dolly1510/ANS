@@ -32,7 +32,7 @@ The scope of this document covers the following:
      
 # Steps for Adding VLAN in ANS - MAR CLY
 
-## Update/Add the VLAN in ANS-MAR CLY
+# Update/Add the VLAN in ANS-MAR CLY
 
 To Update/Add New VLAN we need to follow 3 main steps:
 
