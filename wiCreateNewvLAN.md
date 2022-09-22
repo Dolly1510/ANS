@@ -85,7 +85,7 @@ click on network
 
 Now match with the VLAN name and choose the Network we want.
 
-![Figure 14](Pic14.PNG)
+![Figure 14](Pic15.PNG)
 
 ## 1.5 Add Network Tag if required
 
@@ -141,7 +141,7 @@ Now match with the VLAN name and choose the Network we want.
 
      - In the service broker under catalog search/select the respected catalog.
 
-![Figure 10](Pic10.png)
+![Figure 10](Pic14.PNG)
 
   ## 3.5 Verify VLAN in the Catalog
 
