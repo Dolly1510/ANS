@@ -63,10 +63,26 @@ To Update/Add New VLAN we need to follow 3 main steps:
   ## 1.3 Verify the Tags are Updated
 
      - Click on the Network Profile and search for the Required VLAN is available or not.
-
-     - If the VLAN is not available then we need to add the required VLAN in the network profile and need to add the network tags.
+     
+     - If the VLAN is not available then we need to add the required VLAN in the network profile.
 
 ![Figure 3](Pic3.png)
+
+ ## 1.4 Check network tags
+     
+     - click on network
+     
+![Figure 12](Pic12.png)
+
+     - Now match with the VLAN name and choose the Network we want.
+
+![Figure 13](Pic13.png)
+
+## 1.5 Add Network Tag if required
+
+    - If the Network tag is not available with name matching in the Network we need to add the Network
+    
+![Figure 13](Pic13.png)
 
 ## Step 2
 
