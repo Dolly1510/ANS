@@ -68,13 +68,17 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
 ![Figure 3](Pic3.png)
 
- ## 1.4 Check network tags
+Lets consider the following VLAN as Example:
+
+![Figure 12](Pic12.png)
+
+ ## 1.4 Check network tags  
      
-     - click on network
+click on network
      
 ![Figure 13](Pic13.png)
 
-     - Now match with the VLAN name and choose the Network we want.
+Now match with the VLAN name and choose the Network we want.
 
 ![Figure 14](Pic14.png)
 
