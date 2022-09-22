@@ -32,8 +32,6 @@ The scope of this document covers the following:
      
 # Steps for Adding VLAN in ANS - MAR CLY
 
-# Update/Add the VLAN in ANS-MAR CLY
-
 To Update/Add New VLAN we need to follow 3 main steps:
 
    - Step1:  We need to check the Required VLAN is Available in the Network Profile and check the tags.
@@ -41,8 +39,10 @@ To Update/Add New VLAN we need to follow 3 main steps:
    - Step2: Need to Update\add the VLAN in Cloud Assembly.
 
    - Step3: Verify in the service broker weather the VLAN is added or not.
+ 
+# Update/Add the VLAN in ANS-MAR CLY
 
-# Step 1
+## Step 1
 
 ## updating/add VLAN Process in ANS - MAR CLY
 
@@ -68,7 +68,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
 ![Figure 3](Pic3.png)
 
-# Step 2
+## Step 2
 
 ## Update VLAN in the Cloud Assembly
 
@@ -90,7 +90,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
    
 ![Figure 6](Pic6.png)
    
-# step 3
+## step 3
 
 ## Verification in Service Broker
 
