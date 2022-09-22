@@ -63,9 +63,9 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
   ## 1.3 Verify the Tags are Updated
 
-     - Click on the Network Profile and search for the Required VLAN is available or not.
+     - Click on the Network Profile and search for the Respected VLAN is available or not.
      
-     - If the VLAN is not available then verify and contact with respected team member to make it available here
+     - If the VLAN is not available then verify and contact with respected team member to make it available here.
 
 ![Figure 3](Pic3.png)
 
@@ -85,7 +85,7 @@ click on network
 
 Now match with the VLAN name and choose the Network we want.
 
-![Figure 14](Pic14.png)
+![Figure 14](Pic14.PNG)
 
 ## 1.5 Add Network Tag if required
 
@@ -99,7 +99,7 @@ Now match with the VLAN name and choose the Network we want.
 
    ## 2.1 Select required Template
 
-     - Click on the Design and select/search for the required Blueprint.
+     - Click on the Design and select/search for the respected Blueprint.
 
 ![Figure 4](Pic4.png)
    
@@ -127,7 +127,7 @@ Now match with the VLAN name and choose the Network we want.
          
   ## 3.2 Project in Content&Policies
 
-     - In service broker click on the content&policies and then select content sources
+     - In service broker click on the content&policies and then select content sources.
 
 ![Figure 8](Pic8.png)
          
