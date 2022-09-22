@@ -7,6 +7,7 @@ Table of Contents
 - [Scope](#Scope)
 - [Prerequisites](#Prerequisites)
 - [Stages For Adding VLAN](#Stages-For-Adding-Puppet-Roles)
+- [Update/Add the VLAN in ANS-MAR CLY](#Update/Add the VLAN in ANS-MAR CLY)
 
 # Changelog
   
@@ -37,7 +38,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
    - Step1:  We need to check the Required VLAN is Available in the Network Profile and check the tags.
 
-   - Step2: Need to Update\add the VLAN in the Required Blueprint.
+   - Step2: Need to Update\add the VLAN in Cloud Assembly.
 
    - Step3: Verify in the service broker weather the VLAN is added or not.
 
