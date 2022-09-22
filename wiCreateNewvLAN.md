@@ -1,12 +1,12 @@
 # Adding new VLAN in ANS - MAR CLY
 
-- Table of Contents
+- [Table of Contents](#Table of Contents)
 - [Changelog](#Changelog)
 - [Introduction](#Introduction)
 - [Purpose](#Purpose)
 - [Scope](#Scope)
 - [Stages For Adding VLAN](#Stages-For-Adding-Puppet-Roles)
-- [Adding VLAN  process In ANS-MAR CLY (#Adding VLAN-process-In-ANS-MAR CLY )
+- [Adding VLAN  process In ANS-MAR CLY]#Adding VLAN-process-In-ANS-MAR CLY )
 
 
 # Changelog
