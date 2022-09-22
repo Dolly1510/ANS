@@ -45,7 +45,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
 ## Step 1
 
-## updating/add VLAN Process in ANS - MAR CLY
+## Updating/add VLAN Process in ANS - MAR CLY
 
   ## 1.1 Sign in VRA Environment
  
@@ -65,7 +65,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
      - Click on the Network Profile and search for the Required VLAN is available or not.
      
-     - If the VLAN is not available then we need to add the required VLAN in the network profile.
+     - If the VLAN is not available then verify and contact with respected team member to make it available here
 
 ![Figure 3](Pic3.png)
 
@@ -97,7 +97,7 @@ Now match with the VLAN name and choose the Network we want.
 
 ## Update VLAN in the Cloud Assembly
 
-   ## 2.1 select required Template
+   ## 2.1 Select required Template
 
      - Click on the Design and select/search for the required Blueprint.
 
@@ -125,13 +125,13 @@ Now match with the VLAN name and choose the Network we want.
 
 ![Figure 7](Pic7.png)
          
-  ## 3.2 project in Content&Policies
+  ## 3.2 Project in Content&Policies
 
-     - In service broker click on the content&policies and then select the project.
+     - In service broker click on the content&policies and then select content sources
 
 ![Figure 8](Pic8.png)
          
-  ## 3.3 Validation in conten&Policies
+  ## 3.3 Validation in content&Policies
 
      - Click on the validate and then save & import.
 
@@ -139,13 +139,13 @@ Now match with the VLAN name and choose the Network we want.
 
   ## 3.4 Select Catalog 
 
-     - In the service broker click on the catalog and search/select the required catalog.
+     - In the service broker under catalog search/select the respected catalog.
 
 ![Figure 10](Pic10.png)
 
   ## 3.5 Verify VLAN in the Catalog
 
-     - Now check the VLAN is added in the Catalog.
+     - Verify the newly added VLAN in the VLAN dropdown.
 
 ![Figure 11](Pic11.png)
 
