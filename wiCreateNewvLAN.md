@@ -85,7 +85,7 @@ click on network
 
 Now match with the VLAN name and choose the Network we want.
 
-![Figure 14](Pic15.PNG)
+![Figure 14](Pic15.png)
 
 ## 1.5 Add Network Tag if required
 
