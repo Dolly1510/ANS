@@ -20,6 +20,7 @@ Table of Contents
 ## Purpose
 
 The purpose of this document is to describe steps that should be performed to Add new VLAN in ANS - MAR and CLY.
+
 ## Scope
 
 The scope of this document covers the following:
@@ -70,6 +71,10 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
 Lets consider the following VLAN as Example:
 
+The following VLAN name is - mar01lsw10_VMW_PCAANS_SRV 
+
+we choose a capability tag according to the VLAN name matching. 
+
 ![Figure 12](Pic12.png)
 
  ## 1.4 Check network tags  
@@ -86,7 +91,7 @@ Now match with the VLAN name and choose the Network we want.
 
     - If the Network tag is not available with name matching in the Network we need to add the Network
     
-![Figure 15](Pic15.png)
+![Figure 16](Pic16.png)
 
 ## Step 2
 
