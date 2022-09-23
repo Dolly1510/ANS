@@ -53,13 +53,13 @@ To Update/Add New VLAN we need to follow 3 main steps:
 
       - Then click the cloud assembly.
 
-![Figure 1](Pic1.png)
+![Figure 1](Images/Pic1.png)
 
   ## 1.3 Verify VLAN is in the Network profile
 
      -click on the Infrastructure.
 
-![Figure 2](Pic2.png)
+![Figure 2](Images/Pic2.png)
 
   ## 1.3 Verify the Tags are Updated
 
@@ -67,7 +67,7 @@ To Update/Add New VLAN we need to follow 3 main steps:
      
      - If the VLAN is not available then verify and contact with respected team member to make it available here.
 
-![Figure 3](Pic3.png)
+![Figure 3](Images/Pic3.png)
 
 Lets consider the following VLAN as Example:
 
@@ -75,23 +75,23 @@ The following VLAN name is - mar01lsw10_VMW_PCAANS_SRV
 
 we choose a capability tag according to the VLAN name matching. 
 
-![Figure 12](Pic12.png)
+![Figure 12](Images/Pic12.png)
 
  ## 1.4 Check network tags  
      
 click on network
      
-![Figure 13](Pic13.png)
+![Figure 13](Images/Pic13.png)
 
 Now match with the VLAN name and choose the Network we want.
 
-![Figure 14](Pic15.png)
+![Figure 14](Images/Pic15.png)
 
 ## 1.5 Add Network Tag if required
 
     - If the Network tag is not available with name matching in the Network we need to add the Network.
     
-![Figure 15](Pic16.PNG)
+![Figure 15](Images/Pic16.PNG)
 
 ## Step 2
 
@@ -101,19 +101,19 @@ Now match with the VLAN name and choose the Network we want.
 
      - Click on the Design and select/search for the respected Blueprint.
 
-![Figure 4](Pic4.png)
+![Figure 4](Images/Pic4.png)
    
    ## 2.2 Add required VLAN  in the Template
 
      - Now need to add the VLAN in the Blueprint.
 
-![Figure 5](Pic5.png)
+![Figure 5](Images/Pic5.png)
  
    ## 2.3 Version the Blueprint.
 
     - click on the version button in the blueprint.
    
-![Figure 6](Pic6.png)
+![Figure 6](Images/Pic6.png)
    
 ## step 3
 
@@ -123,30 +123,30 @@ Now match with the VLAN name and choose the Network we want.
 
       - Click on the service broker.
 
-![Figure 7](Pic7.png)
+![Figure 7](Images/Pic7.png)
          
   ## 3.2 Project in Content&Policies
 
      - In service broker click on the content&policies and then select content sources.
 
-![Figure 8](Pic14.PNG)
+![Figure 8](Images/Pic14.PNG)
          
   ## 3.3 Validation in content&Policies
 
      - Click on the validate and then save & import.
 
-![Figure 9](Pic9.png)
+![Figure 9](Images/Pic9.png)
 
   ## 3.4 Select Catalog 
 
      - In the service broker under catalog search/select the respected catalog.
 
-![Figure 10](Pic10.png)
+![Figure 10]Images/(Pic10.png)
 
   ## 3.5 Verify VLAN in the Catalog
 
      - Verify the newly added VLAN in the VLAN dropdown.
 
-![Figure 11](Pic11.png)
+![Figure 11](Images/Pic11.png)
 
 
